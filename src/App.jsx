@@ -56,8 +56,8 @@ export default function CV() {
       <section className="mb-6">
         <h2 className="text-xl font-semibold border-b mb-2">Habilidades Técnicas</h2>
         <ul className="list-disc list-inside">
-          <li>HTML, CSS, JavaScript, TypeScript, Node.js, SQL, NoSQL</li>
-          <li>React, Angular, Git, GitHub, Astro</li>
+          <li><strong>Lenguajes de programacion frontend:</strong>HTML,CSS,JavaScript</li>
+          <li><strong>Lenguajes de programacion backend:</strong>TypeScript,JavaScript</li>
         </ul>
       </section>
 
