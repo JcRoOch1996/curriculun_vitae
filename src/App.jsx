@@ -7,8 +7,7 @@ export default function CV() {
         {/* Encabezado estilo Harvard */}
         <header className="mb-8 border-b border-gray-300 pb-4">
           <h1 className="text-4xl font-bold">Juan Carlos Romero Ochoa</h1>
-          <p className="mt-1">Temuco, Chile</p>
-          <p>Nacionalidad: Colombiana (permanencia definitiva)</p>
+          <p>Rut: 23.697.527-7</p>
           <p>Email: juancarlosjuancajr@gmail.com | Tel: +56 9 9315 2648</p>
           <p>LinkedIn: linkedin.com/in/juan-carlos-romero-ochoa-ab56692b2</p>
           <p>GitHub: github.com/JcRoOch1996</p>
